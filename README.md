@@ -1,5 +1,3 @@
-<img width="276" alt="Screen Shot 2021-06-26 at 4 15 50 AM" src="https://user-images.githubusercontent.com/60290194/123499191-31ad8c00-d635-11eb-8e10-9deced09798e.png">
-<img width="256" alt="Screen Shot 2021-06-26 at 4 16 16 AM" src="https://user-images.githubusercontent.com/60290194/123499195-412cd500-d635-11eb-9513-21528e376927.png">
 News App With Getx 
 
 It's my first time to work with getx , i saw many articles said it would help in dependency injection and state managment , 
@@ -12,5 +10,12 @@ it would work on any device , i did it to be responsive on many screans  , but i
 
 Thank you to encourage me learn and use a new Framwork like Getx .. 
 
+i wish i could use pagination but it did't help me with pages .
+
 wish you the best :) 
+
+
+
+<img width="276" alt="Screen Shot 2021-06-26 at 4 15 50 AM" src="https://user-images.githubusercontent.com/60290194/123499191-31ad8c00-d635-11eb-8e10-9deced09798e.png">
+<img width="256" alt="Screen Shot 2021-06-26 at 4 16 16 AM" src="https://user-images.githubusercontent.com/60290194/123499195-412cd500-d635-11eb-9513-21528e376927.png">
 
